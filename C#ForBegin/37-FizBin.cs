@@ -17,6 +17,10 @@ namespace SampleCodes
            {
                Console.WriteLine("Fizz!");
            }
+             else if (i % 5 ==0)
+           {
+               Console.WriteLine("Fizz!");
+           }
            else
            {
                Console.WriteLine(i);
