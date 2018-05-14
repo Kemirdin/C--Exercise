@@ -10,6 +10,7 @@ namespace SampleCodes
           int age = 30;
           int thisYear = DateTime.Now.Year;
           int YearBorn = thisYear-age;
+          Console.WriteLine('You were Born in' + YearBorn);
       }
   }  
 }
