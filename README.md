@@ -1,1 +1,3 @@
-# CSharp-Exercise & Hands-on Learning
+# CSharp-Exercise & Portfolio & Hands-on Learning...
+These are all of my portfolios and exercises repositories, I will put all my practice files here.
+
