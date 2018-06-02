@@ -6,7 +6,7 @@ namespace SampleCodes {
             string adi = "Kemirdin";
             string soyad = "Kaynam";
             console.Write ("Ogrenci NO:" + ogrno + "" + "ADI:" + adi + "" + "SOYADI:" + soyad);
-            console.Readkey;
+            console.Readkey();
         }
     }
 }
